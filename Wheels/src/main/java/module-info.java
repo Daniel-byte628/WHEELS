@@ -5,11 +5,10 @@ module com.wheels {
     requires org.controlsfx.controls;
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.wheels to javafx.fxml;
-    exports com.wheels.Controller;
-    opens com.wheels.Controller to javafx.fxml;
-    exports com.wheels.Modelo;
-    opens com.wheels.Modelo to javafx.fxml;
+    opens Modelo to javafx.fxml;
+    exports Modelo;
+    exports controller;
+    opens controller to javafx.fxml;
 
 
 }

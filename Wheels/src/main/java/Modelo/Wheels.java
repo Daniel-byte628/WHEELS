@@ -1,4 +1,4 @@
-package com.wheels;
+package Modelo;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -16,7 +16,6 @@ public class Wheels extends Application {
             Scene scene = new Scene(fxmlLoader.load(), 400, 740);
             stage.setScene(scene);
             stage.show();
-
         }catch (Exception e){
             e.printStackTrace();
         }
