@@ -70,17 +70,17 @@
       </AnchorPane>
       <ImageView fitHeight="96.0" fitWidth="167.0" layoutX="122.0" layoutY="140.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../images/png-transparent-computer-icons-emoticon-smiley-smiley-miscellaneous-face-smiley-removebg-preview.png" />
+            <Image url="@../Images/png-transparent-computer-icons-emoticon-smiley-smiley-miscellaneous-face-smiley-removebg-preview.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="96.0" fitWidth="112.0" layoutX="158.0" layoutY="403.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../images/volant-de-voiture_318-35608-removebg-preview.png" />
+            <Image url="@../Images/volant-de-voiture_318-35608-removebg-preview.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="84.0" fitWidth="74.0" layoutX="281.0" layoutY="648.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../images/Captura_de_pantalla_2022-09-20_171142-removebg-preview.png" />
+            <Image url="@../Images/Captura_de_pantalla_2022-09-20_171142-removebg-preview.png" />
          </image>
       </ImageView>
       <Button layoutX="288.0" layoutY="651.0" mnemonicParsing="false" opacity="0.0" prefHeight="65.0" prefWidth="60.0">

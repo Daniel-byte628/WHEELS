@@ -18,7 +18,7 @@
          <children>
             <ImageView fitHeight="189.0" fitWidth="112.0" layoutX="144.0" layoutY="108.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/1-removebg-preview.png" />
+                  <Image url="@../Images/1-removebg-preview.png" />
                </image>
             </ImageView>
             <Button layoutX="26.0" layoutY="34.0" mnemonicParsing="false" style="-fx-background-color: #ffffff;">
@@ -34,7 +34,7 @@
                         <Cursor fx:constant="OPEN_HAND" />
                      </cursor>
                      <image>
-                        <Image url="@../images/Captura_de_pantalla_2022-09-20_154523-removebg-preview.png" />
+                        <Image url="@../Images/Captura_de_pantalla_2022-09-20_154523-removebg-preview.png" />
                      </image>
                   </ImageView>
                </graphic></Button>
@@ -51,13 +51,13 @@
          <children>
             <ImageView fitHeight="51.0" fitWidth="221.0" layoutX="90.0" layoutY="30.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/googlesignin.png" />
+                  <Image url="@../Images/googlesignin.png" />
                </image>
             </ImageView>
             <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f4f4f4" height="52.0" layoutX="1.0" layoutY="120.0" stroke="TRANSPARENT" strokeType="INSIDE" width="400.0" />
             <ImageView fitHeight="88.0" fitWidth="87.0" layoutX="295.0" layoutY="94.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/Captura_de_pantalla_2022-09-20_140011-removebg-preview.png" />
+                  <Image url="@../Images/Captura_de_pantalla_2022-09-20_140011-removebg-preview.png" />
                </image>
             </ImageView>
             <Button layoutX="300.0" layoutY="105.0" maxWidth="75.0" mnemonicParsing="false" opacity="0.0" prefHeight="74.0" prefWidth="75.0" styleClass="botonimagen" stylesheets="@../Styles/login.css">
@@ -82,12 +82,12 @@
                </font></PasswordField>
             <ImageView fitHeight="54.0" fitWidth="56.0" layoutX="43.0" layoutY="111.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/lock.png" />
+                  <Image url="@../Images/lock.png" />
                </image>
             </ImageView>
             <ImageView fitHeight="27.0" fitWidth="29.0" layoutX="57.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/OIP.jfif" />
+                  <Image url="@../Images/OIP.jfif" />
                </image>
             </ImageView>
          </children>
