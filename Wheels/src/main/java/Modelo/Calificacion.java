@@ -1,6 +1,6 @@
 package Modelo;
 
-public class calificacion {
+public class Calificacion {
 
     private String referencia;
     private int puntuacion;
