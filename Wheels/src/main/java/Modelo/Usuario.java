@@ -1,6 +1,7 @@
 package Modelo;
 
 public class Usuario {
+    //Variables
     private int identificador;
     private String nombre;
     private String apellido;
@@ -8,6 +9,9 @@ public class Usuario {
     private String CorreoElectronico;
     private String contrasena;
 
+
+
+    //setters
     public void setApellido(String apellido) {
         this.apellido = apellido;
     }
@@ -32,6 +36,9 @@ public class Usuario {
         this.contrasena = contrasena;
     }
 
+
+    //Getters
+
     public int getIdentificador() {
         return identificador;
     }
@@ -54,5 +61,10 @@ public class Usuario {
 
     public String getContrasena() {
         return contrasena;
+    }
+
+    //Methods
+    void crearCalificacion(String referencia, int puntuacion, String comentario) {
+
     }
 }
